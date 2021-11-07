@@ -33,3 +33,9 @@ code {
 #banner-color-text{
   color: #ff5722;
 }
+
+.text-area-85{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}

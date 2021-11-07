@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import WideBanner from "../component/Widebanner";
+import CenterHeaderText from "../component/CenterHeaderText";
 
 
 class RootPage extends Component{
@@ -7,6 +8,9 @@ class RootPage extends Component{
         return (
             <div>
                 <WideBanner/>
+                <div className="mt-5">
+                    <CenterHeaderText />
+                </div>
             </div>
         )
     }
