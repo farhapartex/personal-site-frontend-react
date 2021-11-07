@@ -1,11 +1,12 @@
 import React, {Component} from "react";
+import WideBanner from "../component/Widebanner";
+
 
 class RootPage extends Component{
     render(){
-        console.log("Working");
         return (
             <div>
-                <p>This site under construction</p>
+                <WideBanner/>
             </div>
         )
     }
