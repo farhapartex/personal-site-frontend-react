@@ -8,9 +8,8 @@ class WideBanner extends Component{
                 <div className="row">
                     <div className="col-12">
                         <div id="wide-banner-text">
-                            <h1 className="text-center ">Hi,</h1>
-                            <h2 className="text-center ">I'm Md Nazmul Hasan</h2>
-                            <h4 className="text-center mt-4">Software Engineer at <Link to={""}>Sixads</Link></h4>
+                            <h2 className="text-center ">HI! I'm <span id="banner-color-text">Nazmul Hasan</span></h2>
+                            <p className="text-center mt-4">I'm a full stack software engineer having 4 years of experience based in Bangladesh.</p>
                         </div>
                     </div>
                 </div>

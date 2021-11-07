@@ -27,5 +27,9 @@ code {
 }
 
 #wide-banner-text h2{
-  font-size: 45px !important;
+  font-size: 65px !important;
+}
+
+#banner-color-text{
+  color: #ff5722;
 }
