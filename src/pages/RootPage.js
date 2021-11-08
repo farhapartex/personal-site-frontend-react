@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import WideBanner from "../component/Widebanner";
 import CenterHeaderText from "../component/CenterHeaderText";
-
+import Footer from "../component/Footer";
 
 class RootPage extends Component{
     render(){
@@ -11,6 +11,7 @@ class RootPage extends Component{
                 <div id="about-section">
                     <CenterHeaderText />
                 </div>
+                <Footer/>
             </div>
         )
     }

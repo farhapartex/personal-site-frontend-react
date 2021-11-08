@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-import SocialContact from "./SocialCntact";
 
 
 class CenterHeaderText extends Component{
@@ -44,9 +43,6 @@ class CenterHeaderText extends Component{
                                     whenever I can.
                                 </p>
                                 
-                            </div>
-                            <div className="mt-5">
-                                <SocialContact />
                             </div>
                         </div>
                     </div>
