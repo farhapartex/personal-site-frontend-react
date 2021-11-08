@@ -8,7 +8,7 @@ class RootPage extends Component{
         return (
             <div>
                 <WideBanner/>
-                <div className="mt-5">
+                <div id="about-section">
                     <CenterHeaderText />
                 </div>
             </div>
