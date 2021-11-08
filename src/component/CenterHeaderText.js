@@ -16,15 +16,15 @@ class CenterHeaderText extends Component{
                 <div className="heading">
                     <h3 className="text-center">About Me</h3>
                 </div>
-                <div className="container-fluid mt-5">
+                <div className="container-fluid row-container mt-5">
                     <div className="row">
-                        <div className="col-4">
+                        <div className="col-4 overflow-hidden side-img-block">
                             <div id="side-image">
                                 <img src={imgUrl} alt="Hasan" className="w-100"/>
                             </div>
                         </div>
-                        <div className="col-8">
-                            <div className="w-75 ml-auto mt-3">
+                        <div className="col-8 about-me-text-block overflow-hidden">
+                            <div className="about-me-text ml-auto mt-3">
                                 <p>
                                 I'm Md Nazmul Hasan, based on <a href={sunamganjUrl} target="_blank" rel="noopener noreferrer" className="in-text-url">Sunamganj, Bangladesh</a>. I'm a full stack software engineer working for last 4 years
                                 and developed web application, web backend services in a variety of domains. Currently I'm working as a Software Enginneer (Remote)

@@ -74,3 +74,73 @@ code {
   float: left;
   padding-right: 10px;
 }
+
+.about-me-text{
+  width: 75%;
+}
+
+.social-icon-block{
+  width: 75%;
+}
+
+@media screen and (max-width: 699px) {
+  .about-me-text {
+     width: 100%;
+     overflow: hidden;
+  }
+
+  .side-img-block{
+    display: none;
+  }
+  .about-me-text-block{
+    width: 100% !important;
+    padding: 35px !important;
+    text-align: justify;
+  }
+  .social-icon-block{
+    width: 85% !important;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 850px) {
+  .about-me-text {
+     width: 100%;
+     margin: auto;
+  }
+
+  .side-img-block{
+    display: none;
+  }
+
+  #side-image{
+    width: 200px;
+    margin: auto;
+   }
+  #side-image img{
+    padding: 30px;
+    height: 320px;
+  }
+  .about-me-text-block{
+    width: 100% !important;
+    padding: 35px !important;
+    text-align: justify;
+  }
+
+  .about-me-text{
+    margin-top: 0px !important;
+  }
+
+  .row-container{
+    margin-top: 0px !important;
+  }
+  .social-icon-block{
+    width: 85% !important;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 10240px) {
+ .about-me-text{
+   padding-left: 40px;
+   width: 80%;
+ }
+}
