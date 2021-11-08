@@ -32,7 +32,7 @@ class CenterHeaderText extends Component{
                                 Data Structure and Algorithms.
                                 </p>
                                 <p>
-                                    I started my career as a Software Engineer in 2018 and that time I worked with Java. But after 6 month I feel that Python is really cool to me
+                                    I started my career as a Software Engineer in 2018 and that time I worked with Java. But after 6 month I felt that Python is really cool to me
                                     and I moved from Java to Python. Then started working on backend applications which were based on Django framework. I always like to explore new era 
                                     technologies. Beside of working on backend, I thought I should learn frontend things so learned JavaScript and then Vuejs. But Currently
                                     I'm working with ReactJs (a popular JavaScript library for UI)
