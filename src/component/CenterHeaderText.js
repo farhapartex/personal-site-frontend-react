@@ -39,7 +39,7 @@ class CenterHeaderText extends Component{
                                 </p>
                                 <p>
                                     Beside of programming I have some another hobbies. I like to ride by-cycle and also like to capture photos.
-                                    I have a <a href={veloceUrl} target="_blank" rel="noopener noreferrer" className="in-text-url">Veloce-603</a> by-cycle with which sometime I tour my city. I have <a href={canonUrl} target="_blank" rel="noopener noreferrer" className="in-text-url">Canon 200d II</a> DSLR camere. I try to capture beautiful moments
+                                    I have a <a href={veloceUrl} target="_blank" rel="noopener noreferrer" className="in-text-url">Veloce-603</a> by-cycle with which sometime I tour my city. I have <a href={canonUrl} target="_blank" rel="noopener noreferrer" className="in-text-url">Canon 200d II</a> DSLR camera. I try to capture beautiful moments
                                     whenever I can.
                                 </p>
                                 
